@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in Mainpuri, Uttar Pradesh, India
 * ✉️  You can contact me at [rishabhyadavjan99@gmail.com](mailto:rishabhyadavjan99@gmail.com)
-* 🧠  I'm learning Tailwind CSS
+* 🧠  I'm learning Node.js and Express
 * 🤝  I'm open to collaborating on React.Js projects
 
 ### Skills
