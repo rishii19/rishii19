@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-* 🌍  I'm based in Mainpuri, Uttar Pradesh, India
+* 🌍  I'm based in Noida, Uttar Pradesh, India
 * ✉️  You can contact me at [rishabhyadavjan99@gmail.com](mailto:rishabhyadavjan99@gmail.com)
 * 🧠  I'm learning Node.js and Express
 * 🤝  I'm open to collaborating on React.Js projects
